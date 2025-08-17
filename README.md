@@ -13,12 +13,12 @@
     
 [-] Clone the Termux_login_screen repository in your Termux:
     ```
-    git clone https://github.com/Roach-199/Termux_login_screen
+    git clone https://github.com/Roach-199/Termux-login-screen.git
     ```
 
 [-] Navigate to the cloned repository directory:
     ```
-    cd Termux_login_screen
+    cd Termux-login-screen
     ```
 
 [-] Add execute permissions to all files in the directory:
@@ -33,6 +33,6 @@
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && pkg install git && git clone https://github.com/Roach-199/Termux_login_screen && cd Termux_login_screen && chmod +x * && bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/Roach-199/Termux-login-screen && cd Termux-login-screen && chmod +x * && bash setup.sh 
 ```
 #
