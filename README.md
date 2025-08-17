@@ -1,19 +1,7 @@
-<h1 align="center">Termux-login-screenm</h1>
-
-<p align="center"> 
-  <img src="https://img.shields.io/github/stars/Roach/Termux-login-screen?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/RoachTermux-login-screen?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/license/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=blue"><br>
-<br>
-<br>
-  <img src="https://img.shields.io/badge/Author-Akshat-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
-</p>
 
 
 
-[-] Update and Upgarde your package lists with to latest versions:
+[-] Update and Upgrade your package lists to latest versions:
     ```
     apt update && apt upgrade
     ```
@@ -23,9 +11,9 @@
     pkg install git
     ```
     
-[-] Clone the TermuX-Custom6 repository in your Termux:
+[-] Clone the Termux-login-screen repository in your Termux:
     ```
-    git clone https://github.com/Cod3r-Ak/TermuX-Custom
+    git clone https://github.com/Roach/Termux-login-screen
     ```
 
 [-] Navigate to the cloned repository directory:
