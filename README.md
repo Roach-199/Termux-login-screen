@@ -1,8 +1,8 @@
-<h1 align="center">TermuX-Custom</h1>
+<h1 align="center">Termux-login-screenm</h1>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/Cod3r-Ak/TermuX-Custom?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/stars/Roach/Termux-login-screen?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/RoachTermux-login-screen?color=cyan&style=for-the-badge&color=purple">
   <img src="https://img.shields.io/github/license/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=blue"><br>
 <br>
 <br>
@@ -11,48 +11,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
-## Description
-TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login screen, login sound effects, and the ability to change your shell name. The interactive terminal provides a dynamic environment for your TermuX sessions.
 
-**Repository Views** ![Views](https://profile-counter.glitch.me/TermuX-Custom/count.svg) 
-> **Maintained?**: Yes, This repository is Maintained and You will get Updates Regularly!
-
-# About Termux
-### What is termux?
-Termux is an *Android terminal emulator* and **Linux environment** app that works directly with **no rooting** or setup required. A minimal base system is installed automatically - additional packages are available using the *PKG/APT package manager*. Read More [Here](https://termux.com/)... 
-### How To install termux?
-
-You can install termux from F-Droid. <br />
-
-- Get it on [Github](https://github.com/termux/termux-app)
-- Download from [F-Droid](https://f-droid.org/packages/com.termux/) <br />
-
-> I don't recommend you to Install Termux from **Google Play Store** as it is now UNMAINTAINED
-
-> But, I strongly recommend you to install Termux from **F-Droid** as it is the stable version of Termux
-
-## Screenshorts After installing TermuX-Custom
-### Login Screen
-![login](.img/IMG_20240307_234826.jpg)
-### Booting Screen
-![sound-effect](.img/IMG_20240306_233903.jpg)
-### Termux Terminal
-![termux-terminal](.img/IMG_20240307_234741.jpg)
-
-## Features Of TermuX-Custom
-- [x] Login Screen
-- [x] Login Sound Effect
-- [x] Customizable Shell Name
-- [x] Interactive Terminal
-- [X] Easy To Use
-- [X] Easy To Install
-- [X] In Terminal Clock
-- [X] Looks OverPowered
-> These features enhance the TermuX interface, providing users with a personalized and dynamic experience for their TermuX sessions.
-
-
-## Getting Started
-To get started, simply follow the provided commands to update and upgrade your TermuX environment, clone the TermuX Custom repository, and execute the setup script to apply the customizations. This repository is intended for educational purposes and does not endorse any malicious activities.
 
 [-] Update and Upgarde your package lists with to latest versions:
     ```
