@@ -33,6 +33,6 @@
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && pkg install git && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/Roach/Termux-login-screen && cd TermuX-Custom && chmod +x * && bash setup.sh 
 ```
 #
